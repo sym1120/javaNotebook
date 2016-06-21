@@ -1,7 +1,7 @@
 /**
 	Object 是所有的类的父类。
 	Object()构造函数中，没有super()语句。
-	Object中的equals()方法用来判断两个对象是否相同
+	Object中的equals()方法用来判断两个对象是否相同,通过地址值来比较
 */
 class Demo{
 	private int num;
